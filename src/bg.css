@@ -1,0 +1,9 @@
+.bg {
+  background-color: hsla(318, 28%, 95%, 1);
+  background-image: radial-gradient(
+      at 51% 0%,
+      hsla(222, 74%, 60%, 1) 0px,
+      transparent 50%
+    ),
+    radial-gradient(at 52% 93%, hsla(238, 99%, 74%, 1) 0px, transparent 50%);
+}
